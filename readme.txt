@@ -7,6 +7,3 @@ Creating a new branch is quick & simple.
 =======
 Create a new branch  is quick AND simple.
 >>>>>>> feature1
-Git branch is strong.
-Git branch manage.
-Git branch manage2.
