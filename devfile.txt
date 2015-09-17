@@ -2,4 +2,9 @@ This is devfile.
 Insert a new line.
 Insert tow lines.
 insert three.
+<<<<<<< HEAD
 four.
+=======
+four.
+five.
+
