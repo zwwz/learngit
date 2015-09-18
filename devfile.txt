@@ -6,5 +6,10 @@ insert three.
 four.
 =======
 four.
+<<<<<<< HEAD
 
+=======
+five.
+six.
+>>>>>>> a17598fc1087746410597d50408fa8340bd9056c
 
